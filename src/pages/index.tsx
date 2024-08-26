@@ -81,10 +81,6 @@ export default function Home() {
           </div>
         </section>
       </main>
-
-      <footer className="bg-gray-900 text-center py-8 mt-16">
-        <p>&copy; 2024 Lightspeed. All rights reserved.</p>
-      </footer>
     </div>
   );
 }
