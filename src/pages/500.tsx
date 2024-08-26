@@ -49,7 +49,7 @@ const FiveHundred = () => {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.6, duration: 0.5 }}
         >
-          Our servers decided to take a quick nap at lightspeed. We're waking them up!
+          Our servers decided to take a quick nap at lightspeed. We&apos;re waking them up!
         </motion.p>
 
         <motion.div
