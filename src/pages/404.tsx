@@ -12,7 +12,6 @@ export default function Custom404() {
         <Link href="/"
  className="mt-6 inline-block bg-gray-900 px-4 py-2 text-sm font-medium text-white shadow hover:bg-amethyst focus:outline-none focus:ring-2 focus:ring-gray-900 focus:ring-offset-2 rounded-lg">
             Go back to Home
-
         </Link>
       </main>
     </div>
